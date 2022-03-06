@@ -1,0 +1,85 @@
+body{
+    background-color: cadetblue;
+}
+.blue{
+    background-color: rgb(15, 229, 236);
+    width: 400px;
+    height: 170px;
+}
+ul{
+    list-style: none;
+}
+.white{
+    background-color: white;
+    width: 400px;
+    height: 200px;
+position: absolute;
+
+}
+.photo{
+    padding: 115px;
+    margin-top: -200px;
+    position: absolute;
+}
+.sec{
+    margin: 100px;
+    padding: 350px;
+    margin-top: -300px;
+}
+.head{
+    padding: 115px;
+    margin-top: -20px;
+}
+.hr{
+    margin: top -50px; ;
+    size: 3rem;
+}
+.age{
+    padding-left: 290px;
+    margin-top: -155px;
+    color: grey;
+font-weight: 400pt;
+font-style: bold;
+}
+.h22{
+    text-align: center;
+    margin-top: auto;
+    font-size: medium;
+color: grey;
+}
+.white2{
+    background-color: white;
+    width: 400px;
+    height: 250px;
+}
+.ul1{
+    background-color:white;
+    display: flex;
+    width: 365px;
+    justify-content: space-around;
+font-size: 20px;
+font-weight: bolder;
+margin-top: -60px;
+padding-left: 20px;
+}
+.ul2{
+    background-color:white;
+    display: flex;
+    width: 365px;
+    justify-content: space-around;
+font-size: 12px;
+margin-top: -15px;
+padding-left: 20px;
+color: grey;
+
+}
+
+
+
+
+
+
+
+
+
+
